@@ -394,4 +394,4 @@ def on_message(message):
 				yield from client.send_message(message.channel, "Piss off soyboy!")
 		
 			
-client.run('NDcxNDAwMTY4OTczOTI2NDMw.Dmoy9A.NTionAjYw_Y1il7QIYKhtDW8tYY')
+client.run('')
